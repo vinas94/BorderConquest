@@ -3,7 +3,7 @@
 
 <img src="./screenshot.png">
 
-You can play it on [Replit](https://replit.com/@vinas94/BorderConquest?v=1) or on your local machine by cloning the repository (much faster)
+You can play it on [Replit](https://replit.com/@vinas94/BorderConquest?v=1) or on your local machine by cloning the repository (much faster).
 
 <br>
 
